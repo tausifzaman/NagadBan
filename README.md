@@ -15,9 +15,6 @@ pkg upgrade -y
 pkg install git -y
 ```
 
-
---Clone this repository--
-
 ```
 git clone https://github.com/tausifzaman/NagadBan
 ```
