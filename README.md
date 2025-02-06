@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ```
-python W8NagadBan.py
+python NagadBan.py
 ```
 
 ONE CLICK INSTALL
