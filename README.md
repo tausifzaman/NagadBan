@@ -22,9 +22,6 @@ git clone https://github.com/tausifzaman/NagadBan
 cd NagadBan
 ```
 ```
-ls
-```
-```
 pip install -r requirements.txt 
 ```
 
