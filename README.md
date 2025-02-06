@@ -1,8 +1,8 @@
 # NagadBan
 You can lock any Nagad account through this tool. Don't use it to harm anyone. This tool is for educational purpose. 
-<center>
+
   <img src="https://i.ibb.co/v6vG357/20250206-212104.jpg"  border="0" width="100%">
-</center>
+
 
 ## Install Termux Commands
 
