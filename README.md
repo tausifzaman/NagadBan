@@ -20,7 +20,7 @@ python3 NagadBan.py
 
 ONE CLICK INSTALL
 ```
-git clone https://github.com/tausifzaman/NagadBan && cd NagadBan && pip install -r requirements.txt && python3 NagadBan.py
+git clone https://github.com/tausifzaman/NagadBan && cd NagadBan && pip install -r requirements.txt && clear && python3 NagadBan.py
 ```
 
 ## Kali Linux
